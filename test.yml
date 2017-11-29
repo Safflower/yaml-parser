@@ -1,0 +1,23 @@
+# Hello :)
+
+alphabet:
+	upper:
+		a:	"A"
+		b:	"B"
+		c:	"C"
+	lower:
+		a:	"a"
+		b:	"b"
+		c:	"c"
+
+number:
+	one:		1
+	two:		2
+	three:	3
+	pi:			3.141592
+
+bool:
+	y:	true
+	n:	false
+
+etc:	'Lorem ipsum\tdolor\nsit\r\namet'
