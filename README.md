@@ -1,2 +1,2 @@
-# yaml-parser
-Yaml file parser
+# Yaml Parser
+Simple Yaml Parser in PHP
