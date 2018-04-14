@@ -2,5 +2,6 @@
 Simple Yaml Parser in PHP
 
 ``` php
-$result = YamlParser::get($filePath);
+require __DIR__.'/yamlparser.php';
+$result = Safflower\YamlParser::get($filePath);
 ```
